@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--统计卡片-->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KemurihinoGatsu&count_private=true&show_icons=true&theme=ambient_gradient"> </div>
+<!--pin仓库-->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=KemurihinoGatsu&repo=Lab-Management&show_owner=true&theme=buefy"> </div>
+<!--语言统计-->
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemurihinoGatsu&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<!--活动统计-->
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=KemurihinoGatsu&theme=Default"> </div>
