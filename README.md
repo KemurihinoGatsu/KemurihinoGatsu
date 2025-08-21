@@ -27,16 +27,8 @@ Here are some ideas to get you started:
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=KemurihinoGatsu&theme=github-compact&hide_border=true&area=true">
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KemurihinoGatsu&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemurihinoGatsu&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img width="500" src="https://wakatime.com/share/@KemurihinoGatsu/402fd583-422b-4fa6-9a66-3f77b905c360.png" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,java,html,css,js,md,cloudflare,docker,github,kali,nodejs,php,vue&theme=light" />
-</p>
- 
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
-</p>
+
